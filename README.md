@@ -2,7 +2,6 @@
 
 🚀 I'm a computer engineering student at the University of Calabria. Passionate about technology, video games, and music, I dedicate myself to software development and exploring new technologies.
 
-
 ## Interests
 
 🎮 Some of my main interests include:
@@ -11,7 +10,7 @@
 - **Java and Python**: I like working with these programming languages to develop robust and efficient applications.
 - **Game Development**: I find it rewarding to create interactive and engaging experiences for users.
 <div align="left">
-  <img src="https://github.com/lorenzofanelli/lorenzofanelli/assets/146168654/96dc4302-51ee-463e-80a9-75234a61ef94" width="100">
+  <img src="https://github.com/daedalus812/configfiles/assets/146168654/faf14e38-a82a-48a4-8884-7d6f782f7e40" width="100">
 </div>
 
 ## Main Projects
@@ -22,12 +21,12 @@
 
 ## Contact
 
-📧 If you'd like to get in touch with me, feel free to shoot me an email at: [lorenzofanelli@proton.me](mailto:lorenzofanelli@proton.me).
+📧 If you'd like to get in touch with me, feel free to shoot me an email at: [lawrence120208@gmail.com](mailto:lawrence120208@gmail.com).
 
 I'm happy to discuss interesting projects, collaborations, or just chat about technology and video games! 😊
 
 
 
 <div align="left">
-  <img src="https://github.com/lorenzofanelli/lorenzofanelli/assets/146168654/84824380-8a64-4d2f-8fc6-986c867482e3" width="300">
+  <img src="https://github.com/daedalus812/configfiles/assets/146168654/65f3de84-6a3c-4eca-9527-bc8ab5469d9a" width="300">
 </div>
